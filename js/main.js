@@ -17,6 +17,7 @@ const $navSubmitStoryBtn=$("#nav-submit-story")
 const $submitForm = $("#submit-form")
 const $favoritedStories = $("#favorited-stories");
 const $storiesLists = $(".stories-list");
+const $ownStories = $("#my-stories");
 
 
 /** To make it easier for individual components to show just themselves, this
